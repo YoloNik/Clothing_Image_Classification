@@ -104,7 +104,7 @@ def main() -> None:
 
     with col1:
         st.subheader("Input image")
-        st.image(image, width="stretch")
+        st.image(image, use_container_width=True)
 
     with col2:
         st.subheader("Prediction")
