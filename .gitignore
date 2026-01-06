@@ -9,4 +9,3 @@ Thumbs.db
 .streamlit/
 .ipynb_checkpoints/
 *.log
-models/
