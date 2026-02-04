@@ -1,9 +1,1 @@
 # Clothing_Image_Classification
-Churn Prediction Project <br />			
-Project Overview <br />			
-			
-This project focuses on customer churn prediction using tabular data. <br />			
-The main objective is to build and evaluate multiple machine learning and deep learning models to identify customers who are likely to leave a service. <br />			
-			
-The project follows a team-based, production-oriented data science workflow, including: <br />			
-Exploratory Data Analysis (EDA) <br />			
